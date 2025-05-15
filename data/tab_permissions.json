@@ -1,0 +1,75 @@
+{
+    "default": {
+        "user": [
+            "access",
+            "passwords"
+        ],
+        "admin": [
+            "access",
+            "passwords"
+        ],
+        "creator": [
+            "passwords",
+            "access",
+            "my_journals",
+            "all_journals",
+            "all_journals_edit",
+            "all_journals_delete",
+            "notifications",
+            "notifications_manage",
+            "shifts_calendar",
+            "shifts_calendar_assign",
+            "paper_reports",
+            "paper_reports_manage",
+            "paper_reports_approve",
+            "users",
+            "users_create",
+            "users_edit",
+            "users_delete",
+            "backup_journals",
+            "backup_journals_create",
+            "backup_journals_restore",
+            "activity_log",
+            "activity_log_export",
+            "scheduler",
+            "scheduler_manage",
+            "access_keys",
+            "access_keys_manage",
+            "inventory",
+            "inventory_create",
+            "inventory_edit",
+            "inventory_delete",
+            "updates",
+            "updates_create",
+            "updates_edit",
+            "updates_delete",
+            "server_info_files",
+            "messenger"
+        ]
+    },
+    "custom": {
+        "67edb73e613df5.66630192": [
+            "access",
+            "my_journals"
+        ],
+        "681ced099bccf4.68215442": [
+            "access"
+        ],
+        "63a4fc5a1a3b9": [
+            "access",
+            "my_journals",
+            "all_journals",
+            "notifications",
+            "notifications_manage",
+            "shifts_calendar",
+            "paper_reports",
+            "users",
+            "backup_journals",
+            "activity_log",
+            "scheduler",
+            "access_keys",
+            "updates",
+            "server_info_files"
+        ]
+    }
+}

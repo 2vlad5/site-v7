@@ -1,0 +1,195 @@
+{
+    "journals": [
+        {
+            "id": "63a4fc5a2d3e4",
+            "title": "\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0436\u0443\u0440\u043d\u0430\u043b 2023",
+            "year": 2023,
+            "user_id": "63a4fc5a1c5d1",
+            "created_at": 1671667674,
+            "admin_access": [
+                "63a4fc5a1b4c0"
+            ]
+        },
+        {
+            "id": "67edb166210e97.47150453",
+            "title": "\u0422\u0422\u0414",
+            "year": 2025,
+            "user_id": "67edb15e6f1427.80042076",
+            "created_at": 1743630694,
+            "admin_access": []
+        }
+    ],
+    "entries": {
+        "63a4fc5a2d3e4": {
+            "2023-01-10": {
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "lunch_minutes": 60,
+                "notes": "\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0434\u0435\u043d\u044c"
+            },
+            "2023-01-11": {
+                "start_time": "09:30",
+                "end_time": "17:30",
+                "lunch_minutes": 60,
+                "notes": "\u041a\u043e\u0440\u043e\u0442\u043a\u0438\u0439 \u0434\u0435\u043d\u044c"
+            },
+            "2023-01-12": {
+                "start_time": "08:00",
+                "end_time": "19:00",
+                "lunch_minutes": 30,
+                "notes": "\u0421\u0432\u0435\u0440\u0445\u0443\u0440\u043e\u0447\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430"
+            }
+        },
+        "67edb166210e97.47150453": {
+            "2025-03-01": {
+                "is_day_off": true,
+                "notes": ""
+            },
+            "2025-03-02": {
+                "is_day_off": true,
+                "notes": ""
+            },
+            "2025-03-03": {
+                "is_day_off": true,
+                "notes": ""
+            },
+            "2025-03-05": {
+                "is_day_off": true,
+                "notes": ""
+            },
+            "2025-03-06": {
+                "is_day_off": true,
+                "notes": ""
+            },
+            "2025-03-07": {
+                "is_day_off": true,
+                "notes": ""
+            },
+            "2025-03-08": {
+                "is_day_off": true,
+                "notes": ""
+            },
+            "2025-03-13": {
+                "is_day_off": true,
+                "notes": ""
+            },
+            "2025-03-21": {
+                "is_day_off": true,
+                "notes": ""
+            },
+            "2025-03-22": {
+                "is_day_off": true,
+                "notes": ""
+            },
+            "2025-03-23": {
+                "is_day_off": true,
+                "notes": ""
+            },
+            "2025-03-27": {
+                "is_day_off": true,
+                "notes": ""
+            },
+            "2025-03-28": {
+                "is_day_off": true,
+                "notes": ""
+            },
+            "2025-03-30": {
+                "is_day_off": true,
+                "notes": ""
+            },
+            "2025-03-31": {
+                "is_day_off": true,
+                "notes": ""
+            },
+            "2025-03-16": {
+                "start_time": "13:00",
+                "end_time": "23:45",
+                "lunch_minutes": 30,
+                "notes": "",
+                "is_day_off": false
+            },
+            "2025-03-04": {
+                "start_time": "",
+                "end_time": "",
+                "lunch_minutes": 0,
+                "notes": "\u0434\u043e\u043f\u0438\u0448\u0443 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u0434\u043d\u044f",
+                "is_day_off": false
+            },
+            "2025-03-09": {
+                "is_day_off": true,
+                "notes": ""
+            },
+            "2025-03-10": {
+                "start_time": "",
+                "end_time": "",
+                "lunch_minutes": 0,
+                "notes": "\u0434\u043e\u043f\u0438\u0448\u0443 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u0434\u043d\u044f",
+                "is_day_off": false
+            },
+            "2025-03-11": {
+                "start_time": "",
+                "end_time": "",
+                "lunch_minutes": 0,
+                "notes": "\u0434\u043e\u043f\u0438\u0448\u0443 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u0434\u043d\u044f",
+                "is_day_off": false
+            },
+            "2025-03-17": {
+                "start_time": "10:15",
+                "end_time": "01:15",
+                "lunch_minutes": 30,
+                "notes": "",
+                "is_day_off": false
+            },
+            "2025-03-18": {
+                "start_time": "09:45",
+                "end_time": "18:55",
+                "lunch_minutes": 90,
+                "notes": "",
+                "is_day_off": false
+            },
+            "2025-03-19": {
+                "start_time": "11:00",
+                "end_time": "18:00",
+                "lunch_minutes": 30,
+                "notes": "",
+                "is_day_off": false
+            },
+            "2025-03-20": {
+                "start_time": "10:00",
+                "end_time": "17:00",
+                "lunch_minutes": 30,
+                "notes": "",
+                "is_day_off": false
+            },
+            "2025-03-24": {
+                "start_time": "",
+                "end_time": "",
+                "lunch_minutes": 0,
+                "notes": "\u0434\u043e\u043f\u0438\u0448\u0443 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u0434\u043d\u044f",
+                "is_day_off": false
+            },
+            "2025-03-25": {
+                "start_time": "09:25",
+                "end_time": "17:40",
+                "lunch_minutes": 30,
+                "notes": "",
+                "is_day_off": false
+            },
+            "2025-03-26": {
+                "start_time": "13:45",
+                "end_time": "18:00",
+                "lunch_minutes": 0,
+                "notes": "",
+                "is_day_off": false
+            },
+            "2025-03-29": {
+                "start_time": "13:20",
+                "end_time": "17:30",
+                "lunch_minutes": 0,
+                "notes": "",
+                "is_day_off": false
+            }
+        }
+    },
+    "recovery_requests": []
+}

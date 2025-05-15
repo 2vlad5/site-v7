@@ -1,0 +1,11 @@
+
+{
+    "categories": [
+        {"id": "computers", "name": "Компьютеры"},
+        {"id": "printers", "name": "Принтеры"},
+        {"id": "network", "name": "Сетевое оборудование"},
+        {"id": "phones", "name": "Телефоны"},
+        {"id": "other", "name": "Прочее"}
+    ],
+    "items": []
+}

@@ -1,0 +1,133 @@
+
+.retro {
+    background: #000080;
+    color: #ffffff;
+    font-family: "Courier New", monospace;
+}
+
+.retro-container {
+    display: flex;
+    min-height: 100vh;
+}
+
+.retro-sidebar {
+    width: 300px;
+    background: #000080;
+    border-right: 2px solid #ffffff;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.retro-header {
+    border-bottom: 2px solid #ffffff;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+.retro-header h2 {
+    color: #ffffff;
+    margin: 0;
+    font-size: 18px;
+}
+
+.retro-journals-list {
+    flex: 1;
+    overflow-y: auto;
+}
+
+.retro-journal-item {
+    display: block;
+    padding: 8px;
+    margin: 4px 0;
+    color: #ffffff;
+    text-decoration: none;
+    border: 1px solid #ffffff;
+}
+
+.retro-journal-item:hover,
+.retro-journal-item.active {
+    background: #ffffff;
+    color: #000080;
+}
+
+.retro-content {
+    flex: 1;
+    padding: 20px;
+    background: #000080;
+}
+
+.retro-tabs {
+    display: flex;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #ffffff;
+}
+
+.retro-tab {
+    padding: 10px 20px;
+    color: #ffffff;
+    text-decoration: none;
+    border: 2px solid #ffffff;
+    border-bottom: none;
+    margin-right: 5px;
+}
+
+.retro-tab:hover,
+.retro-tab.active {
+    background: #ffffff;
+    color: #000080;
+}
+
+.retro-panel {
+    border: 2px solid #ffffff;
+    padding: 20px;
+}
+
+.retro-section {
+    margin-bottom: 20px;
+}
+
+.retro-section h3 {
+    color: #ffffff;
+    margin: 0 0 15px 0;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #ffffff;
+}
+
+.retro-table {
+    width: 100%;
+    border-collapse: collapse;
+    color: #000000;
+}
+
+.retro-table td,
+.retro-table th {
+    padding: 8px;
+    border: 1px solid #000000;
+    background: #ffffff;
+}
+
+.retro-button {
+    display: inline-block;
+    padding: 8px 16px;
+    background: #ffffff;
+    color: #000080;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.retro-welcome {
+    text-align: center;
+    padding: 40px;
+}
+
+.retro-warning {
+    color: #ff0000;
+    background: #ffffff;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.retro-nav {
+    margin-top: 20px;
+}

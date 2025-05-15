@@ -1,0 +1,41 @@
+[
+    {
+        "id": "67edb831653706.76935239",
+        "journal_id": "67edb166210e97.47150453",
+        "user_id": "67edb73e613df5.66630192",
+        "month": 3,
+        "year": 2025,
+        "filename": "\u0410\u043d\u0434\u0440\u0435\u0435\u043d\u043a\u043e \u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u0438\u0447_\u041c\u0430\u0440\u0442_2025.txt",
+        "format": "txt",
+        "created_by": "63a4fc5a1a3b9",
+        "created_at": 1743632433,
+        "admin_access": [],
+        "hourly_rate": 0
+    },
+    {
+        "id": "67edb84cb6bd78.88366228",
+        "journal_id": "67edb166210e97.47150453",
+        "user_id": "67edb73e613df5.66630192",
+        "month": 3,
+        "year": 2025,
+        "filename": "\u0410\u043d\u0434\u0440\u0435\u0435\u043d\u043a\u043e \u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u0438\u0447_\u041c\u0430\u0440\u0442_2025.txt",
+        "format": "txt",
+        "created_by": "63a4fc5a1a3b9",
+        "created_at": 1743632460,
+        "admin_access": [],
+        "hourly_rate": 0
+    },
+    {
+        "id": "67edb84f4f8948.74035056",
+        "journal_id": "67edb166210e97.47150453",
+        "user_id": "67edb73e613df5.66630192",
+        "month": 3,
+        "year": 2025,
+        "filename": "\u0410\u043d\u0434\u0440\u0435\u0435\u043d\u043a\u043e \u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u0438\u0447_\u041c\u0430\u0440\u0442_2025.html",
+        "format": "html",
+        "created_by": "63a4fc5a1a3b9",
+        "created_at": 1743632463,
+        "admin_access": [],
+        "hourly_rate": 0
+    }
+]

@@ -1,0 +1,272 @@
+{
+    "2025-04-07": {
+        "start_time": "09:00",
+        "end_time": "18:00",
+        "lunch_minutes": 60,
+        "notes": "\u0412\u0441\u0442\u0440\u0435\u0447\u0430 \u0432 8:30 \u0443 \u0421\u0443\u0432\u043e\u0440\u043e\u0432\u0441\u043a\u043e\u0433\u043e",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-04-08": {
+        "start_time": "09:00",
+        "end_time": "18:00",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-04-09": {
+        "start_time": "09:00",
+        "end_time": "18:00",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-04-10": {
+        "start_time": "09:00",
+        "end_time": "18:00",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-04-11": {
+        "start_time": "09:00",
+        "end_time": "16:45",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-04-14": {
+        "start_time": "09:00",
+        "end_time": "18:00",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-04-15": {
+        "start_time": "09:00",
+        "end_time": "18:00",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-04-16": {
+        "start_time": "09:00",
+        "end_time": "18:00",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-04-17": {
+        "start_time": "09:00",
+        "end_time": "18:00",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-04-18": {
+        "start_time": "09:00",
+        "end_time": "16:45",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-04-21": {
+        "start_time": "09:00",
+        "end_time": "18:00",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-04-22": {
+        "start_time": "09:00",
+        "end_time": "18:00",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-04-23": {
+        "start_time": "09:00",
+        "end_time": "18:00",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-04-24": {
+        "start_time": "09:00",
+        "end_time": "18:00",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-04-25": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-04-28": {
+        "start_time": "09:00",
+        "end_time": "18:00",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-04-29": {
+        "start_time": "09:00",
+        "end_time": "18:00",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-04-30": {
+        "start_time": "09:00",
+        "end_time": "18:00",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-04-01": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-04-02": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-04-03": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-04-04": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-04-05": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-04-06": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-04-12": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-04-13": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-04-19": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-04-20": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-04-26": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-04-27": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-05-01": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-05-02": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-05-03": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-05-04": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-05-05": {
+        "start_time": "09:00",
+        "end_time": "18:00",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-05-06": {
+        "start_time": "09:00",
+        "end_time": "18:00",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    },
+    "2025-05-08": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-05-09": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-05-10": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-05-11": {
+        "is_day_off": true,
+        "notes": "",
+        "inaccurate_fields": []
+    },
+    "2025-05-20": {
+        "is_day_off": true,
+        "notes": "\u0415\u0413\u042d",
+        "inaccurate_fields": []
+    },
+    "2025-05-07": {
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "lunch_minutes": 60,
+        "notes": "",
+        "is_day_off": false,
+        "inaccurate_fields": []
+    }
+}
