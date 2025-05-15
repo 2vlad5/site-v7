@@ -1,0 +1,15 @@
+
+{
+  "chats": [
+    {
+      "id": "system_portal_chat",
+      "name": "Единый портал mwj-2v5",
+      "creator_id": "system",
+      "users": ["*"],
+      "created_at": 1704067200,
+      "is_system": true,
+      "readonly": true
+    }
+  ],
+  "icons": {}
+}
